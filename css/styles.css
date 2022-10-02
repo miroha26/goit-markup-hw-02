@@ -6,7 +6,7 @@
     --color-beckground-accent:hsla(235, 10%, 21%, 1);
     }
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto','Raleway', sans-serif;
     color: hsla(0, 0%, 46%, 1);
     background-color: hsla(0, 0%, 100%, 1);
 }
