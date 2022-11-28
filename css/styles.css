@@ -116,7 +116,7 @@ body{
     clip-path: inset(50%);
     margin: -1px;
 }
-.advances{}
+
 .advances-title{
     color:var(--color-title);
     font-weight: 700;
@@ -131,7 +131,7 @@ body{
     letter-spacing: 0.03em
 }
 
-.work{}
+
 .work-title{
     color: var(--color-title);
     font-weight: 700;
@@ -176,8 +176,7 @@ body{
     background-color: var(--color-brand);
 }
 
-.portfolio-card{
-}
+
 .portfolio-title{
     color: var(--color-title);
     font-weight: 700;
